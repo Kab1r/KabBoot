@@ -1,0 +1,3 @@
+[submodule "ventoy/dracula-grub"]
+	path = ventoy/dracula-grub
+	url = https://github.com/dracula/grub

@@ -1,0 +1,10 @@
+#+TITLE: KabBoot Bootable Installation Drive
+#+AUTHOR: Kabir Kwatra <kabir@kwatra.me>
+
+This drive consists of two partitions.
+When booted to the EFI partition: [[https://www.ventoy.net/en/index.html][Ventoy]],
+an GRUB-like interface should allow the user to choose from a list of ISOs.
+These ISOs are stored on the other partition along with this README.
+
+DO NOT DELETE TO REFORMAT THIS DRIVE.
+

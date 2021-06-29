@@ -1,0 +1,8 @@
+{
+  "theme": {
+    "file": "/ventoy/dracula-grub/dracula/theme.txt",
+    "fonts": [ "/ventoy/dracula-grub/dracula/font.pf2" ],
+    "gfxmode": "1920x1080",
+    "ventoy_color": "#000000"
+  }
+}
